@@ -1,0 +1,6 @@
+{
+  "name": "PORTUS — UJPAS Vridi",
+  "description": "Système mobile-first Offline-First de gestion de la Contribution d'Assistance et de Sécurisation, contrôle anti-fraude Ed25519 et réconciliation financière sur le corridor portuaire de Vridi (Abidjan).",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
